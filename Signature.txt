@@ -1,0 +1,1 @@
+java -Xmx512m -jar signapk.jar -w platformrelease.x509.pem platformrelease.pk8 DataCollectionService-release-unsigned.apk  DataCollectionService_signed.apk
